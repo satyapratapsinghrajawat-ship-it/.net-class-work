@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\bin\Debug\Return Values in Multicast Delegate.exe.config
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\bin\Debug\Return Values in Multicast Delegate.exe
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\bin\Debug\Return Values in Multicast Delegate.pdb
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\obj\Debug\Return Values in Multicast Delegate.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\obj\Debug\Return Values in Multicast Delegate.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\obj\Debug\Return Values in Multicast Delegate.exe
+C:\Users\DELL\Desktop\DELEDATION\Return Values in Multicast Delegate\obj\Debug\Return Values in Multicast Delegate.pdb
