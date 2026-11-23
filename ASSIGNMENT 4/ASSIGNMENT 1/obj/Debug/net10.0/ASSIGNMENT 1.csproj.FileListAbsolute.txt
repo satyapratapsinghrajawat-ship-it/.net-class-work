@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\ASSIGNMENT 1\bin\Debug\net10.0\ASSIGNMENT 1.exe
+C:\Users\Asus\source\repos\ASSIGNMENT 1\bin\Debug\net10.0\ASSIGNMENT 1.deps.json
+C:\Users\Asus\source\repos\ASSIGNMENT 1\bin\Debug\net10.0\ASSIGNMENT 1.runtimeconfig.json
+C:\Users\Asus\source\repos\ASSIGNMENT 1\bin\Debug\net10.0\ASSIGNMENT 1.dll
+C:\Users\Asus\source\repos\ASSIGNMENT 1\bin\Debug\net10.0\ASSIGNMENT 1.pdb
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.dll
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\refint\ASSIGNMENT 1.dll
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.pdb
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNMENT 1.genruntimeconfig.cache
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ref\ASSIGNMENT 1.dll
+C:\Users\Asus\source\repos\ASSIGNMENT 1\obj\Debug\net10.0\ASSIGNME.47A46851.Up2Date
